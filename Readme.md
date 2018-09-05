@@ -12,3 +12,4 @@
 * [Methods](9.Methods)
 * [Interfaces](10.Interfaces)
 * [Errors](11.Errors)
+* [Goroutines](12.Goroutines)
