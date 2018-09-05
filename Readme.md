@@ -8,3 +8,4 @@
 * [Functions](5.Functions)
 * [Pointers](6.Pointers/pointers.go)
 * [Packages](7.Packages)
+* [Data-types (slices,maps,structs)](8.data-types)
