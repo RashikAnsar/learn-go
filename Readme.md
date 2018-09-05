@@ -7,3 +7,4 @@
 * [Conditionals](4.conditions)
 * [Functions](5.Functions)
 * [Pointers](6.Pointers/pointers.go)
+* [Packages](7.Packages)
