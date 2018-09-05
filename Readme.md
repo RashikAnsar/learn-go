@@ -13,3 +13,4 @@
 * [Interfaces](10.Interfaces)
 * [Errors](11.Errors)
 * [Goroutines](12.Goroutines)
+* [Channels](13.Channel)
