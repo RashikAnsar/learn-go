@@ -5,3 +5,4 @@
 * [Overview of language by creating simple Web-server](2.web_server/web_server.go)
 * [Variables](3.variables)
 * [Conditionals](4.conditions)
+* [Functions](5.Functions)
