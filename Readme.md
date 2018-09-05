@@ -10,3 +10,5 @@
 * [Packages](7.Packages)
 * [Data-types (slices,maps,structs)](8.data-types)
 * [Methods](9.Methods)
+* [Interfaces](10.Interfaces)
+* [Errors](11.Errors)
