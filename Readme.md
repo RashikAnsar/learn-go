@@ -14,3 +14,4 @@
 * [Errors](11.Errors)
 * [Goroutines](12.Goroutines)
 * [Channels](13.Channel)
+* [Select](14.Select)
